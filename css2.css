@@ -436,3 +436,8 @@
     text-align: center;
     text-align: justify;
 }
+
+.item14 p a{
+    text-decoration: none;
+    color: white;
+}
